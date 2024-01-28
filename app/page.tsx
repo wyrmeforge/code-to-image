@@ -77,7 +77,7 @@ export default function Home() {
         />
       </div>
       <div className="flex items-center justify-center h-screen flex-col px-10 tablet:hidden">
-        <h2 className="text-white/80 mb-10">
+        <h2 className="text-white/80 mb-10 text-center">
           Sorry, This website works only on desktop devices
         </h2>
         <LuSquirrel className="text-[40px]" />
